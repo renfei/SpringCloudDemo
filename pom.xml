@@ -10,6 +10,9 @@
 
     <modules>
         <module>eureka</module>
+        <module>apicenter</module>
+        <module>demoservice</module>
+        <module>democlient</module>
     </modules>
 
     <packaging>pom</packaging>
