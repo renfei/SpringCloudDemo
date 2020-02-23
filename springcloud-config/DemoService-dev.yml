@@ -1,9 +1,5 @@
 server:
   port: 18080
-
-spring:
-  application:
-    name: DemoService
 eureka:
   client:
     service-url:
