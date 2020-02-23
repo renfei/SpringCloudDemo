@@ -10,10 +10,10 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>net.renfei</groupId>
-    <artifactId>democlient</artifactId>
+    <artifactId>config</artifactId>
     <version>1.0.0</version>
-    <name>demo-client</name>
-    <description>演示服务</description>
+    <name>config</name>
+    <description>配置中心</description>
 
     <dependencies>
         <dependency>
@@ -21,22 +21,12 @@
             <artifactId>spring-cloud-starter-netflix-eureka-client</artifactId>
         </dependency>
         <dependency>
+            <groupId>org.springframework.cloud</groupId>
+            <artifactId>spring-cloud-config-server</artifactId>
+        </dependency>
+        <dependency>
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-web</artifactId>
-        </dependency>
-
-        <dependency>
-            <groupId>net.renfei</groupId>
-            <artifactId>apicenter</artifactId>
-            <version>1.0.0</version>
-        </dependency>
-        <dependency>
-            <groupId>org.springframework.cloud</groupId>
-            <artifactId>spring-cloud-starter-openfeign</artifactId>
-        </dependency>
-        <dependency>
-            <groupId>org.springframework.cloud</groupId>
-            <artifactId>spring-cloud-config-client</artifactId>
         </dependency>
     </dependencies>
 
@@ -48,5 +38,6 @@
             </plugin>
         </plugins>
     </build>
+
 
 </project>
