@@ -13,6 +13,11 @@ spring:
 #          username:
 #          password:
 #          basedir:
+  rabbitmq:
+    addresses: 127.0.0.1
+    port: 5672
+    username: guest
+    password: guest
 eureka:
   client:
     service-url:
