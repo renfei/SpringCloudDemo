@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: DemoService
+  cloud:
+    config:
+      discovery:
+        service-id: config
+        enabled: true
+      profile: dev

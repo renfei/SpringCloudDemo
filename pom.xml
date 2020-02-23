@@ -11,6 +11,7 @@
     <modules>
         <module>eureka</module>
         <module>apicenter</module>
+        <module>config</module>
         <module>demoservice</module>
         <module>democlient</module>
     </modules>
