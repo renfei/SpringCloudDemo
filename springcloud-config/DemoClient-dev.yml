@@ -9,3 +9,4 @@ spring:
     bindings:
       demoMsg:
         group: demo
+        content-type: application/json
