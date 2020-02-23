@@ -1,0 +1,10 @@
+server:
+  port: 18081
+
+spring:
+  application:
+    name: DemoClient
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:8761/eureka/
