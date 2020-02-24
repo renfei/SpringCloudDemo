@@ -7,6 +7,9 @@ eureka:
 spring:
   stream:
     bindings:
-      demoMsg:
+      demoServiceMQ:
+        group: demo
+        content-type: application/json
+      demoClientMQ:
         group: demo
         content-type: application/json
