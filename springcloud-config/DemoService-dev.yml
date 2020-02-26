@@ -10,6 +10,6 @@ spring:
       demoServiceMQ:
         group: demo
         content-type: application/json
-      demoServiceMQ:
+      demoClientMQ:
         group: demo
         content-type: application/json
