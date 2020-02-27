@@ -11,3 +11,5 @@
 #### [Spring Cloud 微服务入门教程（三）：微服务的注册](https://www.renfei.net/posts/1003323) 章节代码：[Github](https://github.com/NeilRen/SpringCloudDemo/tree/feature/eureka-client)
 #### [Spring Cloud 微服务入门教程（四）：微服务间的调用消费-FeignClient](https://www.renfei.net/posts/1003324) 章节代码：[Github](https://github.com/NeilRen/SpringCloudDemo/tree/feature/demo-client)
 #### [Spring Cloud 微服务入门教程（五）：统一配置中心-ConfigService](https://www.renfei.net/posts/1003325) 章节代码：[Github](https://github.com/NeilRen/SpringCloudDemo/tree/feature/config-server)
+#### [Spring Cloud 微服务入门教程（六）：Spring Cloud BUS 消息总线实现配置中心动态更新配置文件](https://www.renfei.net/posts/1003326) 章节代码：[Github](https://github.com/NeilRen/SpringCloudDemo/tree/feature/spring-cloud-bus)
+#### [Spring Cloud 微服务入门教程（七）：Spring Cloud Stream 消息队驱动式的微服务](https://www.renfei.net/posts/1003327) 章节代码：[Github](https://github.com/NeilRen/SpringCloudDemo/tree/feature/spring-cloud-stream)
