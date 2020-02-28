@@ -13,3 +13,4 @@
 #### [Spring Cloud 微服务入门教程（五）：统一配置中心-ConfigService](https://www.renfei.net/posts/1003325) 章节代码：[Github](https://github.com/NeilRen/SpringCloudDemo/tree/feature/config-server)
 #### [Spring Cloud 微服务入门教程（六）：Spring Cloud BUS 消息总线实现配置中心动态更新配置文件](https://www.renfei.net/posts/1003326) 章节代码：[Github](https://github.com/NeilRen/SpringCloudDemo/tree/feature/spring-cloud-bus)
 #### [Spring Cloud 微服务入门教程（七）：Spring Cloud Stream 消息队驱动式的微服务](https://www.renfei.net/posts/1003327) 章节代码：[Github](https://github.com/NeilRen/SpringCloudDemo/tree/feature/spring-cloud-stream)
+#### [Spring Cloud 微服务入门教程（八）：Spring Cloud Zuul 服务网关动态路由和Cookie头信息传递和跨域](https://www.renfei.net/posts/1003329) 章节代码：[Github](https://github.com/NeilRen/SpringCloudDemo/tree/feature/spring-cloud-zuul)
