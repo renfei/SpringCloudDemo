@@ -1,0 +1,27 @@
+spring:
+  application:
+    name: Gateway
+  cloud:
+    config:
+      discovery:
+        service-id: config
+        enabled: true
+      profile: dev
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:8761/eureka/
+server:
+  port: 8080
+zuul:
+  routes:
+    democlientroute:
+      path: /DC/**
+      service-id: DemoClient
+      sensitiveHeaders:
+    demoserviceroute:
+      path: /DS/**
+      service-id: DemoService
+  ignored-patterns:
+    - /admin
+    - /myadmin

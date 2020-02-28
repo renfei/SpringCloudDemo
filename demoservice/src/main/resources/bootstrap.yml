@@ -7,3 +7,7 @@ spring:
         service-id: config
         enabled: true
       profile: dev
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:8761/eureka/
