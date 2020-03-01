@@ -15,3 +15,4 @@
 #### [Spring Cloud 微服务入门教程（七）：Spring Cloud Stream 消息队驱动式的微服务](https://www.renfei.net/posts/1003327) 章节代码：[Github](https://github.com/NeilRen/SpringCloudDemo/tree/feature/spring-cloud-stream)
 #### [Spring Cloud 微服务入门教程（八）：Spring Cloud Zuul 服务网关动态路由和Cookie头信息传递和跨域](https://www.renfei.net/posts/1003329) 章节代码：[Github](https://github.com/NeilRen/SpringCloudDemo/tree/feature/spring-cloud-zuul)
 #### [Spring Cloud 微服务入门教程（九）：网关 Zuul 整合 Swagger2 实现自动生成 RESTful API 文档](https://www.renfei.net/posts/1003330) 章节代码：[Github](https://github.com/NeilRen/SpringCloudDemo/tree/feature/spring-cloud-zuul-swagger2)
+#### [Spring Cloud 微服务入门教程（十）：Spring Cloud Hystrix 服务熔断和服务降级](https://www.renfei.net/posts/1003331) 章节代码：[Github](https://github.com/NeilRen/SpringCloudDemo/tree/feature/spring-cloud-hystrix)
