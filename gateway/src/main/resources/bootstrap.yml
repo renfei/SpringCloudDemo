@@ -22,6 +22,18 @@ zuul:
     demoserviceroute:
       path: /DS/**
       service-id: DemoService
+  host:
+    maxTotalConnections: 10000
+    maxPerRouteConnections: 10000
+    semaphore:
+      max-semaphores: 200
   ignored-patterns:
     - /admin
     - /myadmin
+hystrix:
+  command:
+    default:
+      execution:
+        isolation:
+          thread:
+            timeoutInMilliseconds: 5000
