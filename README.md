@@ -17,3 +17,4 @@
 #### [Spring Cloud 微服务入门教程（九）：网关 Zuul 整合 Swagger2 实现自动生成 RESTful API 文档](https://www.renfei.net/posts/1003330) 章节代码：[Github](https://github.com/NeilRen/SpringCloudDemo/tree/feature/spring-cloud-zuul-swagger2)
 #### [Spring Cloud 微服务入门教程（十）：Spring Cloud Hystrix 服务熔断和服务降级](https://www.renfei.net/posts/1003331) 章节代码：[Github](https://github.com/NeilRen/SpringCloudDemo/tree/feature/spring-cloud-hystrix)
 #### [Spring Cloud 微服务入门教程（十一）：Spring Cloud Sleuth zipkin 服务追踪链路监控](https://www.renfei.net/posts/1003332) 章节代码：[Github](https://github.com/NeilRen/SpringCloudDemo/tree/feature/spring-cloud-sleuth)
+#### [Spring Cloud 微服务入门教程（十二）：Spring Cloud Docker 容器化部署](https://www.renfei.net/posts/1003334) 章节代码：[Github](https://github.com/NeilRen/SpringCloudDemo/tree/feature/docker)
