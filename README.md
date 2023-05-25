@@ -1,3 +1,5 @@
+>  敬告：此教程已经时间久远，使用的是 Netflix 路线，而 Netflix 很多组件已经闭源不再维护，现在项目大多使用 Alibaba 路线或其他云厂商的路线；此项目只有参考的价值了。
+
 ![RenFei.Net Social Banner](https://cdn.renfei.net/upload/image/2020/20200207204317.jpg)
 
 ## Spring Cloud 微服务入门教程
